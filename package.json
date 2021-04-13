@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "cf-challange-1",
+  "version": "1.0.0",
+  "description": "Cloudflare's challange-1 implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Claudio Yanes <me@claudio4.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
