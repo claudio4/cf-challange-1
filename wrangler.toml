@@ -1,5 +1,5 @@
 name = "cf-challange-1"
-type = "javascript"
+type = "webpack"
 account_id = "f724d199c8b26b1cc640714ef209ffba"
 workers_dev = true
 route = ""
